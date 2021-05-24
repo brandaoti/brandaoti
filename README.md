@@ -6,14 +6,9 @@ Here are some ideas to get you started:
 
 ### Oi, eu sou Daniel👊🏽
 
-    Sou Graduado em Analise de Sistemas, durante alguns anos, trabalhei com Rede de Computadores, Analisa de Suporte...
+   Sou Graduado em Analise de Sistemas, durante alguns anos, trabalhei com Rede de Computadores, Analisa de Suporte...
 
-    👨🏽‍💻 Estou estudando desenvolvimento Mobile para migrar de área.
-
-📚 Atualmente, estou estudando desenvolvimento mobile - Flutter.
-👥 Estou procurando por grupo de estudo e projetos open-source.
-
-
+   👨🏽‍💻 Estou estudando desenvolvimento Mobile para migrar de área.
 
 <!-- Outras informaçoes relevantes -->
 
