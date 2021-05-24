@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 ### Oi, eu sou Daniel👋
     
     Sou Graduado em Analise de Sistemas, trabalho com Rede de Computadores...
-    Atualmente estou estudando desenvolvimento Mobile com Flutter.
+    Atualmente estou estudando e focado no desenvolvimento Mobile com Flutter.
 
 <!-- Outras informaçoes relevantes -->
 
