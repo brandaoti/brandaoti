@@ -6,8 +6,8 @@ Here are some ideas to get you started:
 
 ### Oi, eu sou Daniel👋
     
-    Sou Graduado em Analise de Sistemas, mas sempre trabalhei na área de TI com Telecomunicações. 
-    Atualmente estou estudando programação para me tornar um DEV mobile e migrar de área.
+    Sou Graduado em Analise de Sistemas, trabalho com Rede de Computadores...
+    Atualmente estou estudando desenvolvimento Mobile com Flutter.
 
 <!-- Outras informaçoes relevantes -->
 
