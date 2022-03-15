@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 - 📚 Atualmente, estou estudando desenvolvimento mobile - **Flutter**
 - 👥 Estou procurando por grupo de estudo e projetos open-source
-- 🎸 Uma **curiosidade:** `Sou/fui Instrutor de violão`. Durante 4 anos, fiz parte de um projeto `✔️Mais Educação`, ensinando jovens aprenderem tocar **violão**.
+- 🎸 Uma **curiosidade:** `Sou/fui Instrutor de violão`. Durante 4 anos, fiz parte de um projeto `✔️Mais Educação`, ensinando jovens tocar **violão**.
   
 [![Instagram: @aprendendoflutter](https://github.com/brandaoti/organizar-github/blob/main/link/aprendendoflutter-segue_ai-blue.svg)](https://www.instagram.com/aprendendoflutter)
 [![Linkedin: dannbrandao](https://github.com/brandaoti/organizar-github/blob/main/link/linkedin-dannbrandao-blue-square.svg)](https://www.linkedin.com/in/dannbrandao/)
