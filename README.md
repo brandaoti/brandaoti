@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 ### Oi, eu sou Daniel👊🏽
 
-   Sou Graduado em Analise de Sistemas, durante alguns anos, trabalhei com Rede de Computadores, Analista de Suporte...
+   Sou Graduado em Análise de Sistemas, durante alguns anos, trabalhei com Rede de Computadores, Analista de Suporte...
 
    👨🏽‍💻 Estou estudando desenvolvimento Mobile para migrar de área.
 
