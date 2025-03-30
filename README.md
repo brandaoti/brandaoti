@@ -4,19 +4,18 @@
 Here are some ideas to get you started:
  -->
 
-### Oi, eu sou Daniel👊🏽
+### Oi, eu sou o Daniel! 👊🏽
 
-   Sou Graduado em Análise de Sistemas, durante alguns anos, trabalhei com Rede de Computadores, Analista de Suporte...
-
-   👨🏽‍💻 Estou estudando desenvolvimento Mobile para migrar de área.
+Sou graduado em Análise de Sistemas e, por alguns anos, atuei com Redes de Computadores e Suporte Técnico.
 
 <!-- Outras informaçoes relevantes -->
 
-- 📚 Atualmente, estou estudando desenvolvimento mobile - **Flutter**
-- 👥 Estou procurando por grupo de estudo e projetos open-source
-- 🎸 Uma **curiosidade:** `Sou/fui Instrutor de violão`. Durante 4 anos, fiz parte de um projeto `✔️Mais Educação`, ensinando jovens tocar **violão**.
-  
-[![Instagram: @brandao.dev](https://github.com/brandaoti/organizar-github/blob/main/link/aprendendoflutter-segue_ai-blue.svg)](https://www.instagram.com/brandao.dev)
+📱 Atualmente, trabalho como desenvolvedor mobile com **Flutter**.
+👥 Busco grupos de estudo e projetos open-source para colaborar e evoluir.
+🎸 Curiosidade: fui Instrutor de violão` por 4 anos no projeto `✔️Mais Educação`, ajudando jovens a aprender a tocar.
+
+Bora trocar uma ideia? 🚀
+
 [![Linkedin: dannbrandao](https://github.com/brandaoti/organizar-github/blob/main/link/linkedin-dannbrandao-blue-square.svg)](https://www.linkedin.com/in/dannbrandao/)
 
 **Linguagens e Ferramentas:**
