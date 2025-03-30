@@ -10,9 +10,9 @@ Sou graduado em Análise de Sistemas e, por alguns anos, atuei com Redes de Comp
 
 <!-- Outras informaçoes relevantes -->
 
-📱 Atualmente, trabalho como desenvolvedor mobile com **Flutter**.
-👥 Busco grupos de estudo e projetos open-source para colaborar e evoluir.
-🎸 Curiosidade: fui Instrutor de violão` por 4 anos no projeto `✔️Mais Educação`, ajudando jovens a aprender a tocar.
+- 📱 Atualmente, trabalho como desenvolvedor mobile com **Flutter**.
+- 👥 Busco grupos de estudo e projetos open-source para colaborar e evoluir.
+- 🎸 Curiosidade: fui Instrutor de violão` por 4 anos no projeto `✔️Mais Educação`, ajudando jovens a aprender a tocar.
 
 Bora trocar uma ideia? 🚀
 
